@@ -1,5 +1,5 @@
 # Øvinger
 
-## [Øving 1](./oving1.pdf)
+## [Øving 1](./oving1/oving1.pdf)
 
 {% include gotop.html %}
