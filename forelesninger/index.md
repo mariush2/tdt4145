@@ -6,4 +6,6 @@
 
 ## [Forelesning 21. januar - Relasjonsdatabasemodellen + oversetting fra ER](./21jan)
 
+## [Forelesning 24. januar - Relasjonsalgebra](./24jan)
+
 {% include gotop.html %}
