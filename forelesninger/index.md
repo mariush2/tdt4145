@@ -8,7 +8,7 @@
 
 ## [Forelesning 24. januar - Relasjonsalgebra](./24jan)
 
-## [Forelesning 24. januar - Relasjonsalgebra del 2](./28jan)
+## [Forelesning 28. januar - Relasjonsalgebra del 2](./28jan)
 
 ## [Forelesning 31. januar - SQL](./31jan)
 
