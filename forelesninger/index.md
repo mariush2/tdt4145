@@ -10,4 +10,6 @@
 
 ## [Forelesning 24. januar - Relasjonsalgebra del 2](./28jan)
 
+## [Forelesning 31. januar - SQL](./31jan)
+
 {% include gotop.html %}
