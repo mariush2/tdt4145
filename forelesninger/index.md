@@ -12,4 +12,6 @@
 
 ## [Forelesning 31. januar - SQL](./31jan)
 
+## [Forelesning 4. februar - Mer SQL](./4feb)
+
 {% include gotop.html %}
