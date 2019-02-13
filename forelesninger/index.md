@@ -14,4 +14,6 @@
 
 ## [Forelesning 4. februar - Mer SQL](./4feb)
 
+## [Forelesning 7. februar - Normaliseringsteori](./7feb)
+
 {% include gotop.html %}
