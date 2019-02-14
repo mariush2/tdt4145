@@ -2,7 +2,7 @@
 title: Forelesning 7. februar
 ---
 
-# Forelesning 7. februar - Normaliseringsteori, del 2
+# Forelesning 7. februar - Normaliseringsteori
 
 ---
 

@@ -16,4 +16,6 @@
 
 ## [Forelesning 7. februar - Normaliseringsteori](./7feb)
 
+## [Forelesning 11. februar - Normaliseringsteori, andre del](./11feb)
+
 {% include gotop.html %}
