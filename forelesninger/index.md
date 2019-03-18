@@ -18,4 +18,6 @@
 
 ## [Forelesning 11. februar - Normaliseringsteori, andre del](./11feb)
 
+## [Forelesning 14. februar - MVD-er og 4NF. EER: Kategorier](./14feb)
+
 {% include gotop.html %}
