@@ -92,7 +92,7 @@ AnsattNr | Kompetanse
 ### AnsattHobbyer
 
 AnsattNr | Hobby 
- --- | --- 
+ --- | --- 
  1 | Fotball 
  1 | Foto 
  2 | Ski 
