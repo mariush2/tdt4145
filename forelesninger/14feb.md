@@ -17,11 +17,9 @@ Starter med R og F. Finner en dekomponering i tabeller (projeksjoner) som kan la
 ## Sjekke T-J-egenskapen
 - En dekomponering av $R, D = \{R_1, R_2\}$, har tapsløst-join-egenskapen hvis
 
-$$R_1 \cap R_2 \longrightarrow R_1$$
 
-eller
+$R_1 \cap R_2 \longrightarrow R_1$ eller $R_1 \cap R_2 \longrightarrow R_2$
 
-$$R_1 \cap R_2 \longrightarrow R_2$$
 
 - Komponent-tabellenes felles attributter er supernøkkel for en eller begge komponenttabellene
 - NB! Dette er ikke "hvis og bare hvis", kan være for konservativ.
@@ -43,13 +41,14 @@ $$R_1 \cap R_2 \longrightarrow R_2$$
 ## 3NF / BCNF kan ha problemer
 
 ### Ansattinfo
-| AnsattNr | Kompetanse | Hobby |
-|----------|------------|-------|
-| 1 | DB | Fotball|
-| 1 | C++ | Foto |
-| 2 | DB | Ski |
-| 1 | C++ | Fotball |
-| 1 | DB | Foto |
+
+ AnsattNr | Kompetanse | Hobby 
+ --- | --- | ---
+ 1 | DB | Fotball
+ 1 | C++ | Foto 
+ 2 | DB | Ski 
+ 1 | C++ | Fotball 
+ 1 | DB | Foto 
 
 - Kompetanser og Hobbyer er uavhengige av hverandre (for en person)
 - Innsetting av <1, Java, Tennis> krever innsetting av
@@ -83,18 +82,20 @@ Projeksjonene AB og AC har tapsløs-join-egenskapen hvis A ->> B eller A ->> C
 ## Ansattinfo (ny)
 
 ### Ansattkompetanse
-| AnsattNr | Kompetanse |
-| --- | --- |
-| 1 | DB |
-| 1 | C++ |
-| 2 | DB |
+
+AnsattNr | Kompetanse 
+ --- | --- 
+ 1 | DB 
+ 1 | C++ 
+ 2 | DB 
 
 ### AnsattHobbyer
-| AnsattNr | Hobby |
-| --- | --- |
-| 1 | Fotball |
-| 1 | Foto |
-| 2 | Ski |
+
+AnsattNr | Hobby 
+ --- | --- 
+ 1 | Fotball 
+ 1 | Foto 
+ 2 | Ski 
 
 - Komponent-tabellene er på 4NF
 - Vi har tapsløst-join mellom komponentene
